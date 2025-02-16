@@ -1,0 +1,3 @@
+# Uploading data from Yandex Managed Service for MySQL into Yandex Object Storage through Yandex Data Transfer
+
+With [Data Transfer](https://yandex.cloud/en/docs/data-transfer), you can transfer data from a [Managed Service for MySQL](https://yandex.cloud/en/docs/managed-mysql) cluster to your [Object Storage](https://yandex.cloud/en/docs/storage). See [this tutorial](https://yandex.cloud/en/docs/data-transfer/tutorials/mmy-objs-migration) to learn how to set up the solution with Terraform. This repository contains the configuration file you will need: [data-transfer-mmy-objs.tf](data-transfer-mmy-objs.tf).
